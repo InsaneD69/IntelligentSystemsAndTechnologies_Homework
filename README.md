@@ -1,0 +1,3 @@
+# IntelligentSystemsAndTechnologies_Homework
+
+ф
