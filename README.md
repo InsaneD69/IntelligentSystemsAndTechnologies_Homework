@@ -12,5 +12,5 @@
     
  Вторая дз 
  
-   [Имплементация svg разложения](https://github.com/InsaneD69/IntelligentSystemsAndTechnologies_Homework/blob/main/us2.pr.py) 
+   [Имплементация svg разложения](https://github.com/InsaneD69/IntelligentSystemsAndTechnologies_Homework/blob/main/us2pr.py) 
     
